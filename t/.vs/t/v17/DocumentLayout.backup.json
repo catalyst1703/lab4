@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jopaj\\source\\repos\\t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\t.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\t.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_istream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_console_istream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_ostream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_console_ostream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ostream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_ostream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_istream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_istream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_iterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ifstream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_ifstream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_ostream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_console_ostream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_istream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_console_istream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ifstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_ifstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ofstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_ofstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ofstream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_ofstream.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_istream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_istream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ostream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\custom_ostream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\FileModeIn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\FileModeIn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|C:\\Users\\jopaj\\source\\repos\\t\\t\\FileModIn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12EDE1-C9FF-42E8-83EF-D087BD476C81}|t\\t.vcxproj|solutionrelative:t\\FileModIn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "custom_console_istream.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_istream.cpp",
+              "RelativeDocumentMoniker": "t\\custom_console_istream.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_istream.cpp",
+              "RelativeToolTip": "t\\custom_console_istream.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T10:29:38.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "custom_console_istream.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_istream.h",
+              "RelativeDocumentMoniker": "t\\custom_console_istream.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_istream.h",
+              "RelativeToolTip": "t\\custom_console_istream.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T10:27:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "custom_console_ostream.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_ostream.cpp",
+              "RelativeDocumentMoniker": "t\\custom_console_ostream.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_ostream.cpp",
+              "RelativeToolTip": "t\\custom_console_ostream.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T10:24:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "custom_console_ostream.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_ostream.h",
+              "RelativeDocumentMoniker": "t\\custom_console_ostream.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_console_ostream.h",
+              "RelativeToolTip": "t\\custom_console_ostream.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T10:18:07.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "custom_ostream.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ostream.cpp",
+              "RelativeDocumentMoniker": "t\\custom_ostream.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ostream.cpp",
+              "RelativeToolTip": "t\\custom_ostream.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T07:53:20.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "custom_ofstream.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ofstream.cpp",
+              "RelativeDocumentMoniker": "t\\custom_ofstream.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ofstream.cpp",
+              "RelativeToolTip": "t\\custom_ofstream.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T07:44:03.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "custom_ofstream.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ofstream.h",
+              "RelativeDocumentMoniker": "t\\custom_ofstream.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ofstream.h",
+              "RelativeToolTip": "t\\custom_ofstream.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T07:41:50.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "custom_ostream.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ostream.h",
+              "RelativeDocumentMoniker": "t\\custom_ostream.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ostream.h",
+              "RelativeToolTip": "t\\custom_ostream.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T07:22:27.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileModIn.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\FileModIn.cpp",
+              "RelativeDocumentMoniker": "t\\FileModIn.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\FileModIn.cpp",
+              "RelativeToolTip": "t\\FileModIn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T00:48:39.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "custom_ifstream.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ifstream.cpp",
+              "RelativeDocumentMoniker": "t\\custom_ifstream.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ifstream.cpp",
+              "RelativeToolTip": "t\\custom_ifstream.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T00:48:30.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "custom_ifstream.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ifstream.h",
+              "RelativeDocumentMoniker": "t\\custom_ifstream.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_ifstream.h",
+              "RelativeToolTip": "t\\custom_ifstream.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T00:48:01.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileModeIn.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\FileModeIn.h",
+              "RelativeDocumentMoniker": "t\\FileModeIn.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\FileModeIn.h",
+              "RelativeToolTip": "t\\FileModeIn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T00:47:41.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "custom_istream.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_istream.cpp",
+              "RelativeDocumentMoniker": "t\\custom_istream.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_istream.cpp",
+              "RelativeToolTip": "t\\custom_istream.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T00:46:56.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "custom_istream.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_istream.h",
+              "RelativeDocumentMoniker": "t\\custom_istream.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_istream.h",
+              "RelativeToolTip": "t\\custom_istream.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T00:46:49.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "custom_iterator.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_iterator.h",
+              "RelativeDocumentMoniker": "t\\custom_iterator.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_iterator.h",
+              "RelativeToolTip": "t\\custom_iterator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T00:34:55.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "custom_vector.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_vector.cpp",
+              "RelativeDocumentMoniker": "t\\custom_vector.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_vector.cpp",
+              "RelativeToolTip": "t\\custom_vector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T00:31:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "custom_vector.h",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_vector.h",
+              "RelativeDocumentMoniker": "t\\custom_vector.h",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\custom_vector.h",
+              "RelativeToolTip": "t\\custom_vector.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T00:30:58.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "t.cpp",
+              "DocumentMoniker": "C:\\Users\\jopaj\\source\\repos\\t\\t\\t.cpp",
+              "RelativeDocumentMoniker": "t\\t.cpp",
+              "ToolTip": "C:\\Users\\jopaj\\source\\repos\\t\\t\\t.cpp",
+              "RelativeToolTip": "t\\t.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T00:30:16.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
